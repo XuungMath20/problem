@@ -1,3 +1,3 @@
 {
-    "ws_url": "wss://free.blr2.piesocket.com/v3/1?api_key=4a2Oh8VpMdCCEgy9E1d8qe7NVLw2Uj4xeIQsXD8V&notify_self=1"
+  "firebase_url": "https://websocket-c1eef-default-rtdb.firebaseio.com/"
 }
