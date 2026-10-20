@@ -1,4 +1,4 @@
 {
-  "ws_url": "wss://free.blr2.piesocket.com/v3/1?api_key=TcxiNycLc6Lus9ib0DH1OnH5sNMH9AwrJjgqBFUw&notify_self=1",
-  "ws2_url": "wss://slayerpow.onrender.com/ws"
+  "ws_url": "wss://slayerpow.onrender.com/ws",
+  "ws2_url": "wss://free.blr2.piesocket.com/v3/1?api_key=BUMOKv60mTfXUoHRKxpYxUup4Y9InaU01tMJFMuR&notify_self=1"
 }
