@@ -1,3 +1,4 @@
 {
-  "ws_url": "https://abusoket-novo9.vercel.app"
+  "ws_url": "wss://free.blr2.piesocket.com/v3/1?api_key=QH7KaWhGkJA3UviMAxh3RUxKTNAqiHVGfiHmewxh&notify_self=1",
+  "firebase_url": "https://websocket-c1eef-default-rtdb.firebaseio.com/"
 }
